@@ -1,5 +1,5 @@
 ## Hello 👋
-I am **Self taught web developer**
+I am a **Self taught  Web Developer**
 
 - 🗃️ Working on multiple frontend and backend project using javaScript and Nodejs
 - 🎯 Haking on JavaScript
