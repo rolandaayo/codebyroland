@@ -11,7 +11,7 @@
 Feel free to checkout my [portfolio](https://rolandayo.com/) website!
 - 🏢 Software Engineer (Front End) open to new opportunities.
 - 🌴 I build with: `React`, `JavaScript`, `CSS`, `HTML`, `UI Design & Development` ...
-- 🎥 I enjoy photography, reading, playing soccer, and lifting weights :)
+- ⚡️ I enjoy photography, reading, playing soccer, and lifting weights :)
 - 💬 Reach out to me: contact@rolandayo.com
 
  𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
